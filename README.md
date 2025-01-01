@@ -1,1 +1,1 @@
-# III-H WEEK1 linear algebra
+# III-H weekly projects @IIIT-HYDERABAD
